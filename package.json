@@ -1,0 +1,17 @@
+{
+  "name": "engineframe-reviews",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-hosted Google Reviews widget for Engine Frame Studios",
+  "scripts": {
+    "seed": "node scripts/seed.mjs",
+    "refresh": "node scripts/refresh.mjs",
+    "build": "node scripts/build.mjs",
+    "dev": "npm run build && npx serve dist -p 3000 -L"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.33.1",
+    "dotenv": "^16.4.7"
+  }
+}

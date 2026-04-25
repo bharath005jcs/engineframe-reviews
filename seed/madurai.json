@@ -1,0 +1,95 @@
+{
+  "_instructions": "Curated seed reviews for the Madurai studio. Replace each review with real text copied from https://maps.google.com/... for your studio. Fields: author (display name), avatarUrl (null for initials fallback), rating (1-5 integer), text, publishTime (ISO date — approximate is fine), relativeTime (e.g. '4 months ago'). Delete this _instructions field before going live.",
+  "slug": "madurai",
+  "displayName": "Engine Frame Studios",
+  "rating": 4.8,
+  "userRatingCount": 74,
+  "summary": {
+    "title": "Highly Praised Professional Photography",
+    "summary": "Engine Frame Studios has received high praise for their professional, customer-friendly service, and stunning baby photoshoots. Customers appreciate their vast array of themes and props, and their ability to work patiently and effectively with babies. Their additional services such as kids studio rental, wide range of dresses, and product photoshoots are also well-regarded."
+  },
+  "summaryHash": "",
+  "reviews": [
+    {
+      "author": "Santosh Kannan",
+      "avatarUrl": null,
+      "rating": 5,
+      "text": "Best place to do baby shoot, Model and meternity shoot in Madurai",
+      "publishTime": "2025-12-24T00:00:00Z",
+      "relativeTime": "4 months ago"
+    },
+    {
+      "author": "Antony vijay T",
+      "avatarUrl": null,
+      "rating": 5,
+      "text": "Amazing depth of field in every photos.....he is photogenius.....must book ur slot & get every click quality",
+      "publishTime": "2025-08-24T00:00:00Z",
+      "relativeTime": "8 months ago"
+    },
+    {
+      "author": "Ammu dhanasekar",
+      "avatarUrl": null,
+      "rating": 4,
+      "text": "Atmosphere excellent and little costly",
+      "publishTime": "2025-06-24T00:00:00Z",
+      "relativeTime": "10 months ago"
+    },
+    {
+      "author": "Harikrishnan R",
+      "avatarUrl": null,
+      "rating": 5,
+      "text": "Had a great experience at their Studio. Lots of themes available to choose from. Staffs were of immense help in prepping the babies. Overall we are totally satisfied with the Output.",
+      "publishTime": "2025-04-24T00:00:00Z",
+      "relativeTime": "1 year ago"
+    },
+    {
+      "author": "AmAr HoCk",
+      "avatarUrl": null,
+      "rating": 5,
+      "text": "Aww",
+      "publishTime": "2025-04-10T00:00:00Z",
+      "relativeTime": "1 year ago"
+    },
+    {
+      "author": "dhivya lakshmi",
+      "avatarUrl": null,
+      "rating": 4,
+      "text": "Nice place for babies",
+      "publishTime": "2025-03-15T00:00:00Z",
+      "relativeTime": "1 year ago"
+    },
+    {
+      "author": "Poornamathi S",
+      "avatarUrl": null,
+      "rating": 5,
+      "text": "Excellent studio with professional photographers. The team is very patient with kids and the output is beautiful. Highly recommended.",
+      "publishTime": "2024-04-24T00:00:00Z",
+      "relativeTime": "2 years ago"
+    },
+    {
+      "author": "Priya Rajesh",
+      "avatarUrl": null,
+      "rating": 5,
+      "text": "Did my maternity shoot here and the photos came out beautifully. Lots of outfit options and the props are well-maintained. Staff was very accommodating throughout.",
+      "publishTime": "2025-10-01T00:00:00Z",
+      "relativeTime": "6 months ago"
+    },
+    {
+      "author": "Karthik Velu",
+      "avatarUrl": null,
+      "rating": 5,
+      "text": "Booked a product photoshoot for my new business. Professional lighting setup, quick turnaround, edits were on point. Will book again.",
+      "publishTime": "2025-07-12T00:00:00Z",
+      "relativeTime": "9 months ago"
+    },
+    {
+      "author": "Sneha Lakshmanan",
+      "avatarUrl": null,
+      "rating": 4,
+      "text": "Nice themed setups for baby photoshoot. Wide range of dresses available to choose from. A bit of a wait on weekends so book in advance.",
+      "publishTime": "2025-05-20T00:00:00Z",
+      "relativeTime": "11 months ago"
+    }
+  ],
+  "updatedAt": "2026-04-24T00:00:00Z"
+}
