@@ -1,9 +1,14 @@
 {
-  "$schema": "https://json.schemastore.org/wrangler.json",
+  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "engineframe-reviews",
-  "compatibility_date": "2026-01-01",
+  "compatibility_date": "2026-04-25",
+  "observability": {
+    "enabled": true
+  },
   "assets": {
-    "directory": "./dist",
-    "not_found_handling": "404-page"
-  }
+    "directory": "dist"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
 }
