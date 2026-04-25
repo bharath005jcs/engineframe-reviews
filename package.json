@@ -8,10 +8,15 @@
     "seed": "node scripts/seed.mjs",
     "refresh": "node scripts/refresh.mjs",
     "build": "node scripts/build.mjs",
-    "dev": "npm run build && npx serve dist -p 3000 -L"
+    "dev": "npm run build && npx serve dist -p 3000 -L",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.33.1",
     "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "wrangler": "^4.85.0"
   }
 }
